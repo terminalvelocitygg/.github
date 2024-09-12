@@ -1,12 +1,17 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/terminalvelocitygg/.github/blob/main/profile/logo.png" height="140">
+</p>
 
-<!--
+<h1 align="center">
+Terminal Velocity
+</h1>
+<p align="center">
+Hands down the best video game multiplayer ever. EVER.
+</p>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+  <a href="https://www.terminalvelocity.gg">Website</a> —
+  <a href="https://www.linkedin.com/company/terminalvelocitygg">LinkedIn</a>
+</div>
+<h4 align="center"><a href="https://www.rocketscience.gg/careers"><i>Have what it takes? Join our squad!</i></a></h4>
+<h4 align="center">Terminal Velocity is part of the <a href="https://www.rocketscience.gg"><i>Rocket Science Group</i></a></h4>
