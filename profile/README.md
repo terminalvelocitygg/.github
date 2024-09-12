@@ -14,4 +14,8 @@ Hands down the best video game multiplayer ever. EVER.
   <a href="https://www.linkedin.com/company/terminalvelocitygg">LinkedIn</a>
 </div>
 <h4 align="center"><a href="https://www.rocketscience.gg/careers"><i>Have what it takes? Join our squad!</i></a></h4>
-<h4 align="center">Terminal Velocity is part of the <a href="https://www.rocketscience.gg"><i>Rocket Science Group</i></a></h4>
+<br />
+<br />
+<br />
+<h6 align="center"> Terminal Velocity is part of the <a href="https://www.rocketscience.gg"><i>Rocket Science Group</i></a></h6>
+
